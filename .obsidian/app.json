@@ -1,1 +1,7 @@
-{}
+{
+  "spellcheck": true,
+  "newFileLocation": "root",
+  "attachmentFolderPath": "./attachments",
+  "useMarkdownLinks": false,
+  "newLinkFormat": "relative"
+}
